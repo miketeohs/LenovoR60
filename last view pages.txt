@@ -1,0 +1,34 @@
+﻿http://www.sport-video.org.ua/americanfootball.html
+http://bt.hliang.com/index.php?sort_id=5
+http://bt.hliang.com/show.php?hash=fbf5684db3736deae56b8a0cc05cabf3a7eb5cc9
+
+http://bt.hliang.com/search.php?keyword=SS%E5%B0%8F%E7%87%95%E4%B9%8B%E5%A4%9C
+
+http://www.4shared.com/folder/5eF_2K7X/VT_online.html?detailView=1&sortAsc=true&sortsMode=TIME
+http://search.4shared.com/q/large/CKACAw/1/70%20462
+
+
+
+last read
+
+How to Enable and Disable the Default Trace in SQL Server
+http://zarez.net/?p=1593
+https://sg.search.yahoo.com/search;_ylt=AwrwNFav.j1W5_kAw3Uj4gt.;_ylc=X1MDMjExNDcwODAwMwRfcgMyBGZyA3lmcC10LTcxMgRncHJpZANTUlpOUnN5WlJIT3ppWVptcFpNSl9BBG5fcnNsdAMwBG5fc3VnZwMwBG9yaWdpbgNzZy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzQ3BHF1ZXJ5AyJzcF9jb25maWd1cmUgZGVmYXVsdCB0cmFjZSBlbmFibGVkIiBzcWwgc2VydmVyBHRfc3RtcAMxNDQ2OTA0NDQ1?p=%22sp_configure+default+trace+enabled%22+sql+server&fr2=sb-top-sg.search&fr=yfp-t-712
+
+https://twitter.com/BrentO/lists/sql-server
+http://www.brentozar.com/archive/2009/10/how-to-use-twitter-lists/
+http://www.brentozar.com/archive/2009/12/i-need-sqlhelp/
+
+
+
+
+http://www.sqlskills.com/blogs/kimberly/exec-and-sp_executesql-how-are-they-different/
+http://stackoverflow.com/questions/11004410/datetime-and-sp-executesql
+
+
+
+https://www.reddit.com/r/SQLServer/comments/37lm8u/sql_query_and_ram_issues/
+
+http://blogs.msdn.com/b/askjay/archive/2011/07/08/troubleshooting-slow-disk-i-o-in-sql-server.aspx
+https://technet.microsoft.com/en-us/magazine/hh873103.aspx
+http://texasmemory.blogspot.sg/2012/04/holistic-look-at-oracle-memory-layer.html
