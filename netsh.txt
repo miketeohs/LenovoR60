@@ -10,7 +10,7 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-hardware/enabledisabl
 
 http://forum.sysinternals.com/command-used-to-disable-network-interface_topic9483.html
 
-netsh wlan 
+netsh wlan
 
 abort          - Discards changes made while in offline mode.
 add            - Adds a configuration entry to a list of entries.
@@ -43,3 +43,5 @@ winsock        - Changes to the `netsh winsock' context.
 
 The following sub-contexts are available:
  bridge diag firewall interface lan nap p2p ras routing winsock
+
+
